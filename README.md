@@ -1,5 +1,7 @@
 **This project is no longer maintained**
 
+**Patched. Work with `'pyopenssl > 17.2.0`**
+
 IKEForce  
 Dan Turner <dturner@trustwave.com>  
 http://www.spiderlabs.com  
